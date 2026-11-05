@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "AgentProof",
+      "hasCanvas": false,
+      "bodyTextLen": 1649,
+      "bodyTextHash": "819d893d25f779ec51960e4cfb24cd1f039dde04685a073155ff9802405eac00",
+      "bodyTextPrefix": "AgentProof BOT Chain Testnet · 968 Linking Install MetaMask PUBL",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "AgentProof",
+      "hasCanvas": false,
+      "bodyTextLen": 1649,
+      "bodyTextHash": "819d893d25f779ec51960e4cfb24cd1f039dde04685a073155ff9802405eac00",
+      "bodyTextPrefix": "AgentProof BOT Chain Testnet · 968 Linking Install MetaMask PUBL",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
